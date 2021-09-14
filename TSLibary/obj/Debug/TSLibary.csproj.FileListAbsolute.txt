@@ -1,0 +1,9 @@
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\bin\Debug\TSLibary.dll
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\bin\Debug\TSLibary.pdb
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\obj\Debug\TSLibary.csproj.CoreCompileInputs.cache
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\obj\Debug\TSLibary.dll
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\obj\Debug\TSLibary.pdb
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\bin\Debug\Dapper.dll
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\bin\Debug\Dapper.xml
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\obj\Debug\TSLibary.csproj.CopyComplete
+H:\Studies\CDICollege\CSharp\Advance_CSharp\FinalProject_TellerSimulator\TellerSimulator\TSLibary\obj\Debug\TSLibary.csprojAssemblyReference.cache
